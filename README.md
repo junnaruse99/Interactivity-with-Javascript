@@ -22,7 +22,7 @@
 - window.alert() -> alert box
 - window.prompt() -> a prompt but wants input
 - document.write() -> HTML output -> NOT that used because it may overwrite your html
-    - document.write("<h1> Hello world </h1>")
+    - document.write("Hello world")
 - innerHTML -> HTML element
     - element.innerHTML = "Hello World"
 - console.log() -> browser console
